@@ -1,6 +1,4 @@
-# NoSQL - Découverte en autonomie
-
-Découverte en autonomie du NoSQL
+# NoSQL - modélisation
 
 ## Ressources
 
@@ -22,8 +20,6 @@ Voici quelques liens utiles, mais ne te limite pas à cette sélection !
 - [An Introduction to Document-Oriented Databases](https://www.digitalocean.com/community/conceptual-articles/an-introduction-to-document-oriented-databases)
 
 ### Mise en pratique
-
-Maintenant que tu as exploré la théorie, place à la pratique pour bien saisir la différence de pensée entre un modèle relationnel et un modèle NoSQL.
 
 Tu souhaites stocker les informations d’un **catalogue de produits** : un produit possède un identifiant, un nom, une marque, un prix, une description, une ou plusieurs catégories (ayant chacune un identifiant et un nom), un stock, une date de création. En fonction de la catégorie, le produit aura des champs spécifiques (qui pourraient être la couleur et la taille pour un vêtement, ou le nombre de pages pour un livre, etc...).
 
